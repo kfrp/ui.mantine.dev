@@ -31,7 +31,7 @@
 
 .track {
   &::before {
-    background-color: (var(--mantine-color-gray-4), var(--mantine-color-dark-3));
+    background-color: light-dark(var(--mantine-color-gray-4), var(--mantine-color-dark-3));
   }
 }
 
